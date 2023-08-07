@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01多线程/day01多线程.iml" filepath="$PROJECT_DIR$/day01多线程/day01多线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02多线程/day02多线程.iml" filepath="$PROJECT_DIR$/day02多线程/day02多线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03常用类/day03常用类.iml" filepath="$PROJECT_DIR$/day03常用类/day03常用类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04常用类/day04常用类.iml" filepath="$PROJECT_DIR$/day04常用类/day04常用类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05枚举类与注解/day05枚举类与注解.iml" filepath="$PROJECT_DIR$/day05枚举类与注解/day05枚举类与注解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06集合/day06集合.iml" filepath="$PROJECT_DIR$/day06集合/day06集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07集合/day07集合.iml" filepath="$PROJECT_DIR$/day07集合/day07集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08泛型和File/day08泛型和File.iml" filepath="$PROJECT_DIR$/day08泛型和File/day08泛型和File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09-io流/day09-io流.iml" filepath="$PROJECT_DIR$/day09-io流/day09-io流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10-io流与网络编程/day10-io流与网络编程.iml" filepath="$PROJECT_DIR$/day10-io流与网络编程/day10-io流与网络编程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11-反射/day11-反射.iml" filepath="$PROJECT_DIR$/day11-反射/day11-反射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12-动态代理与java8新特性/day12-动态代理与java8新特性.iml" filepath="$PROJECT_DIR$/day12-动态代理与java8新特性/day12-动态代理与java8新特性.iml" />
+    </modules>
+  </component>
+</project>
